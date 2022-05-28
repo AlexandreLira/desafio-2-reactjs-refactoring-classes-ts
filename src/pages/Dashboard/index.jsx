@@ -22,6 +22,7 @@ class Dashboard extends Component {
     const response = await api.get('/foods');
 
     this.setState({ foods: response.data });
+    console.log(response.data)
   }
 
   handleAddFood = async food => {

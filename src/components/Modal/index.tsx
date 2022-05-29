@@ -1,4 +1,4 @@
-import { ReactNode, useEffect, useState } from 'react';
+import { ReactNode } from 'react';
 import ReactModal from 'react-modal';
 
 interface ModalProps {
@@ -8,7 +8,11 @@ interface ModalProps {
 }
 
 function Modal(props: ModalProps) {
-  const { isOpen, setIsOpen,children } = props
+  const { 
+    isOpen, 
+    setIsOpen, 
+    children 
+  } = props
 
 
     return (

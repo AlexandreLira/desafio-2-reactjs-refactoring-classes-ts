@@ -16,7 +16,6 @@ interface InputProps {
 }
 
 const Input = ({ name, icon: Icon, ...rest }: InputProps) => {
-  console.log('dakfa', Icon)
   const inputRef = useRef<HTMLInputElement>(null);
 
   const [isFocused, setIsFocused] = useState(false);

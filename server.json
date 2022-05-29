@@ -29,7 +29,7 @@
       "name": "Moda Francesa",
       "price": "29,99",
       "description": "Essa massa de pizza é bem diferente do que você normalmente come! Italiana como poucas, deliciosa como sempre!",
-      "available": false,
+      "available": true,
       "id": 4
     }
   ]

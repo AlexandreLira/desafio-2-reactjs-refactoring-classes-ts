@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://claudia.abril.com.br/wp-content/uploads/2020/07/pizza-pepperoni.jpg",
+      "name": "Moda Italina",
+      "price": "29,99",
+      "description": "Essa massa de pizza é bem diferente do que você normalmente come! Italiana como poucas, deliciosa como sempre!",
+      "available": true,
+      "id": 4
     }
   ]
 }

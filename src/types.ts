@@ -6,3 +6,5 @@ export interface Product {
     name: string;
     price: string;
 }
+
+export type ProductEditing = Omit<Product, 'id' | 'available'> 

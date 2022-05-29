@@ -26,10 +26,10 @@
     },
     {
       "image": "https://claudia.abril.com.br/wp-content/uploads/2020/07/pizza-pepperoni.jpg",
-      "name": "Moda Italina",
+      "name": "Moda Francesa",
       "price": "29,99",
       "description": "Essa massa de pizza é bem diferente do que você normalmente come! Italiana como poucas, deliciosa como sempre!",
-      "available": true,
+      "available": false,
       "id": 4
     }
   ]
